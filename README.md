@@ -1,6 +1,7 @@
 https://shankymahajan.github.io/
 ======================
 Hey This is Shashank Mahajan
+please follow me on linkedin- https://www.linkedin.com/in/shashank-mahajan-88549a124/ 
 Github repo for Shashank Mahajan's Website
 
 ## How to create one for your own
