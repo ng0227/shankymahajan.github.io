@@ -12,6 +12,7 @@ Github repo for Shashank Mahajan's Website
 4. Make changes as you want!
 5. Use git and push your code.
 6. And You are done with your website.
+7. If you have doubts contact me via email.
 
 
 #### Don't forget to star the repo if you like it ;)
