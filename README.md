@@ -14,6 +14,7 @@ Github repo for Shashank Mahajan's Website
 6. And You are done with your website.
 7. If you have any doubt, please contact me via email.
 8. Email shashankmahajan18@gmail.com
+9. linkedIn https://www.linkedin.com/in/shashank-mahajan-88549a124/
 
 
 #### Don't forget to star the repo if you like it ;)
